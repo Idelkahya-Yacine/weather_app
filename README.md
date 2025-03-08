@@ -1,6 +1,6 @@
 # weather_app
 
-A new Flutter project.
+A simple weather app built with Flutter that shows real-time weather data based on the user's location. It fetches data from OpenWeatherMap and displays dynamic weather animations (sunny, rainy, cloudy, thunder) using Lottie.
 
 ## Getting Started
 
